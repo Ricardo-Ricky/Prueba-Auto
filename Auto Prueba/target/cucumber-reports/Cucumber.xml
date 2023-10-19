@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="6.672">
+    <testcase classname="Login Feature" name="Search in wikipedia" time="5.021">
+        <system-out><![CDATA[Given I open google website.................................................passed
+When Search in google the word "Automatizacion".............................passed
+Then Enter the wikipedia link about Automatizacion..........................passed
+When Find the year of the first automation process..........................passed
+And Take a screenshot to the page...........................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
