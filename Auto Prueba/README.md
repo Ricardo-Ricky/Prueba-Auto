@@ -35,7 +35,7 @@ de la web. El PageObject contiene los **WebElement** y los *métodos* sobre ello
    - Instalación con maven: Despues de tener el maven instalado,descargar el framework (carpeta src y archivo pom.xml)
    y hacer una ejecución de maven desde la carpeta del proyecto:
    
-   >mvn -Dtest="cucumber.gon.solis.cucumberselenium.RunCucumberTest" test
+   >mvn -Dtest="auto.framework.selenium.cucumber.RunCucumberTest" test
    - Instalación con IntellIJ: descargar el framework, instalarle una JDK, **Open(abrir)** el proyecto y ejecutar
    el archivo `RunCucumberTest.java` que está en la ruta `src\test\java\auto\framework\selenium\cucumber\RunCucumberTest.java`
    pulsando botón derecho. IntellIJ tiene maven integrado y es capaz de montarlo todo.
